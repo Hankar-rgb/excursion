@@ -10,6 +10,17 @@ body {
     color: #ffffff;
 }
 
+.secondary {
+    font-weight: 300;
+    font-size: 32px;
+    color: #ffffff;
+}
+
+.subheader {
+    color: grey;
+    font-size: 21;
+}
+
 .link--style {
     font-size: 16px;
     color: aquamarine;
